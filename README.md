@@ -8,4 +8,10 @@ First, run the development server:
 pnpm dev
 ```
 
-Open your browser with the given port to see the result.
+Open [http://localhost:3003](http://localhost:3003) with your browser to see the result.
+
+You can use a different port by setting the PORT environment variable:
+
+```bash
+PORT=3005 pnpm dev
+```
