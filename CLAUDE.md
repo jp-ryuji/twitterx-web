@@ -40,6 +40,7 @@ This document provides essential context for AI models interacting with this pro
     * Files: kebab-case for page components, camelCase for others (inferred from source code)
 * **API Design:** Client-side application that likely connects to backend APIs (not defined in this frontend project)
 * **Error Handling:** Standard React/Next.js error handling patterns (not explicitly defined in current codebase)
+* **File Requirements:** All files must end with exactly one newline character to prevent "No newline at end of file" linting warnings and ensure POSIX compliance.
 
 ## 5. Key Files & Entrypoints
 
